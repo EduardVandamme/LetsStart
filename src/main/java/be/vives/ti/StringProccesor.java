@@ -9,7 +9,12 @@ public class StringProccesor {
             return str;
         }
         else {
+
+            int i = 0;
             return str+suffix;
+
+
+
         }
     }
 }
